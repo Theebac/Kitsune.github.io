@@ -1,0 +1,59 @@
+body{
+    margin: 10px;
+    color: rgb(20, 20, 20);
+    background-color: #30428E;
+    font-family: 'open sans', sans-serif;
+}
+h1{
+    color: rgb(20, 20, 20);
+    font-family: 'lobster', cursive;
+    font-size: 60px;
+}
+p{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+#my-header{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    color: rgb(20, 20, 20);
+    background: url("https://images.alphacoders.com/736/thumb-1920-736461.png");
+}
+
+.feature{
+    padding: 40px;
+    font-weight: 300;
+}
+
+.feature img {
+    padding: 20px;
+    border-radius: 50%;
+}
+
+#my-footer{
+    padding: 30px;
+    background: rgb(30,30,30);
+    color: lightgray;
+}
+
+#my-footer a {
+    color: lightgray;
+}
+
+#my-footer a:hover{
+    color: white
+}
+
+#discord{
+    text-align: center;
+}
+
+#tiktok{
+    text-align: center;
+}
+
+#youtube{
+    text-align: center;
+}
